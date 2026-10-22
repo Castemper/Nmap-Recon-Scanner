@@ -6,7 +6,7 @@
 # Requirements: Nmap, Nikto(Optional), curl, zip.
 #
 # Author:Fawwaz Ayomide Akinsanya
-# Linkedin: https://www.linkedin.com/in/fawwaz-akinsanya-715333343
+# Linkedin: https://www.linkedin.com/in/ayomide-akinsanya-1a080743a
 # X(Formerly Twitter): Castemper_szn
 #
 # An Entry level Cybesecurity project designed for Beginner Cybersecurity Analysts to learn and master the sue of Nmap and system vulbnerabilities.)
